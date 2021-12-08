@@ -1,0 +1,8 @@
+{
+	"baseUrl": "https://binance.com",
+	"loginUrl": "https://account.binance.com/en/login",
+	"login": {
+		"emailSelector": "input[type=\"email\"]",
+		"passwordSelector": "input[type=\"password\"]"
+	}
+}

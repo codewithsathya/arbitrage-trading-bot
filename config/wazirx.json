@@ -1,0 +1,9 @@
+{
+	"baseUrl": "https://wazirx.com",
+	"login": {
+		"link": "/login",
+		"emailSelector": "input[type=\"email\"]",
+		"passwordSelector": "input[type=\"password\"]",
+		"authkeySelector": "input[type=\"tel\"]"
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "name": "arbitrage-trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithsathya/arbitrage-trading-bot.git"
+  },
+  "author": "codewithsathya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithsathya/arbitrage-trading-bot/issues"
+  },
+  "homepage": "https://github.com/codewithsathya/arbitrage-trading-bot#readme",
+  "dependencies": {
+    "chromedriver": "^96.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "gmail-inbox": "^1.5.0",
+    "selenium-webdriver": "^4.1.0",
+    "totp-generator": "^0.0.13"
+  }
+}
